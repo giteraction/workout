@@ -8,7 +8,9 @@
 
 간단하게 메모장을 이용하여 “꾸준히 기록이라도 습관을 만들어보자”로 시작하였습니다. 이 때 기록하는 것 자체에도 의의와 동기부여를 얻기도 하였습니다
 
-![메모장 기록 모습](https://github.com/giteraction/workout/assets/95407727/21dab0d2-6ef3-4ca5-9958-4ae2c2bca547)
+
+<img src="https://github.com/giteraction/workout/assets/95407727/d09fa097-45b4-4e8e-85b6-2a39d6a38f78" alt="ms" style="width:200px;height:100px;">
+
 
 하지만 쌓이기만 하는 과거의 데이터는 활용되지는 못한 점이 한계였습니다.
 
