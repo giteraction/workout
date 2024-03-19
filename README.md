@@ -68,7 +68,6 @@
 
 ### <개발 과정 중 마일스톤 리스트>
 <img src="https://github.com/giteraction/workout/assets/95407727/d09fa097-45b4-4e8e-85b6-2a39d6a38f78" style="width:500px;">
-![ms](https://github.com/giteraction/workout/assets/95407727/d09fa097-45b4-4e8e-85b6-2a39d6a38f78)
 
 
 ---
@@ -82,15 +81,15 @@
 <img src="https://github.com/giteraction/workout/assets/95407727/47bdf292-ee82-464a-8a62-5282cd4e2707" style="width:500px;">
 
 -운동 기록보기-
-<img src="https://github.com/giteraction/workout/assets/95407727/730f000b-0799-4532-bffd-c7353de649a2" style="width:500px;">
+<img src="https://github.com/giteraction/workout/assets/95407727/730f000b-0799-4532-bffd-c7353de649a2" style="width:500px;")
 
 -새로운 운동 추가-
 <img src="https://github.com/giteraction/workout/assets/95407727/8b3b0263-67d4-48b5-877d-dac9fd25cc39" style="width:500px;">
+
 -음식 기록 저장-
 <img src="https://github.com/giteraction/workout/assets/95407727/29f792c6-19f4-48f4-85f9-17b87b5b9041" style="width:500px;">
 
-
--새로운 음식 추가
+-새로운 음식 추가-
 <img src="https://github.com/giteraction/workout/assets/95407727/ebc32e61-a7b7-4d20-bd9e-bf84fbe2bbfc" style="width:500px;">
 
 -식단 기록 보기-
