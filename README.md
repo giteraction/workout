@@ -9,6 +9,7 @@
 간단하게 메모장을 이용하여 “꾸준히 기록이라도 습관을 만들어보자”로 시작하였습니다. 이 때 기록하는 것 자체에도 의의와 동기부여를 얻기도 하였습니다
 
 ![Untitled](https://github.com/giteraction/workout/assets/95407727/21dab0d2-6ef3-4ca5-9958-4ae2c2bca547)
+
 하지만 쌓이기만 하는 과거의 데이터는 활용되지는 못한 점이 한계였습니다.
 
 그리하여 이를 활용할 수 있는 데이터 분석 기록표를 만들 수 있겠다는 생각이 들었습니다.
@@ -37,7 +38,8 @@
         - 사용자의 체중과 운동량, 영양 섭취 및 성분 균형 등을 고려한 계산 로직
     - ERD (개발 전)
         
-        ![제목 없는 다이어그램.drawio.svg](./reference/diagram.drawio.svg)
+        ![diagram](https://github.com/giteraction/workout/assets/95407727/c87407e7-5e69-44dd-8b8d-599e61d43839)
+
         
     - ERD (개발 후)
         - USER 테이블 > 사용자의 체중, 운동 방향 및 빈도 컬럼으로 변경
