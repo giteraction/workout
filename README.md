@@ -76,25 +76,26 @@
 ### <최종 완성>
 
 - 사용자 설정
-![사용자 설정](https://github.com/giteraction/workout/assets/95407727/0d401804-49ab-4b3b-a55f-4b518f6cec92){:width="500px"}
+<img src="https://github.com/giteraction/workout/assets/95407727/0d401804-49ab-4b3b-a55f-4b518f6cec92" alt="사용자 설정" style="width:500px;">
 
 - 운동 기록 저장
-![운동 기록 저장](https://github.com/giteraction/workout/assets/95407727/47bdf292-ee82-464a-8a62-5282cd4e2707){:width="500px"}
+<img src="https://github.com/giteraction/workout/assets/95407727/47bdf292-ee82-464a-8a62-5282cd4e2707" alt="운동 기록 저장" style="width:500px;">
 
 - 운동 기록보기
-![운동 기록 보기](https://github.com/giteraction/workout/assets/95407727/730f000b-0799-4532-bffd-c7353de649a2){:width="500px"}
+<img src="https://github.com/giteraction/workout/assets/95407727/730f000b-0799-4532-bffd-c7353de649a2" alt="운동 기록 보기" style="width:500px;">
 
 - 새로운 운동 추가
-![새로운 운동 추가](https://github.com/giteraction/workout/assets/95407727/8b3b0263-67d4-48b5-877d-dac9fd25cc39){:width="500px"}
+<img src="https://github.com/giteraction/workout/assets/95407727/8b3b0263-67d4-48b5-877d-dac9fd25cc39" alt="새로운 운동 추가" style="width:500px;">
 
 - 음식 기록 저장
-![음식 기록 저장](https://github.com/giteraction/workout/assets/95407727/29f792c6-19f4-48f4-85f9-17b87b5b9041){:width="500px"}
+<img src="https://github.com/giteraction/workout/assets/95407727/29f792c6-19f4-48f4-85f9-17b87b5b9041" alt="음식 기록 저장" style="width:500px;">
 
 - 새로운 음식 추가
-![새로운 음식 추가](https://github.com/giteraction/workout/assets/95407727/ebc32e61-a7b7-4d20-bd9e-bf84fbe2bbfc){:width="500px"}
+<img src="https://github.com/giteraction/workout/assets/95407727/ebc32e61-a7b7-4d20-bd9e-bf84fbe2bbfc" alt="새로운 음식 추가" style="width:500px;">
 
 - 식단 기록 보기
-![식단 기록 보기](https://github.com/giteraction/workout/assets/95407727/10dccb55-1a18-4360-b9b6-cd920a26145f){:width="500px"}
+<img src="https://github.com/giteraction/workout/assets/95407727/10dccb55-1a18-4360-b9b6-cd920a26145f" alt="식단 기록 보기" style="width:500px;">
+
 
 ---
 
