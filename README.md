@@ -73,7 +73,8 @@
 
 ### <개발 과정 중 마일스톤 리스트>
 
-![Untitled (5)](https://github.com/giteraction/workout/assets/95407727/782a27d0-a560-4f9c-a785-2dcaeabee011)
+![ms](https://github.com/giteraction/workout/assets/95407727/d09fa097-45b4-4e8e-85b6-2a39d6a38f78)
+
 
 ---
 
